@@ -28,5 +28,4 @@ A high-performance simulation of the famous game show puzzle. It empirically pro
 * **Matplotlib:** Used for generating histograms and logarithmic convergence charts.
 * **Jupyter Notebook:** Used for Data Storytelling, blending markdown explanations with executable code.
 
-![Convergence Graph](konvergencia.png)
 
