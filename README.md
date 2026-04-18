@@ -35,3 +35,19 @@ To run these simulations on your local machine, ensure you have Python installed
 1. Clone this repository:
    ```bash
    git clone [https://github.com/Slimacik12/probability-and-convergence.git](https://github.com/Slimacik12/probability-and-convergence.git)
+   ```
+2.Install the required dependencies:
+   ```bash
+   pip install numpy scipy matplotlib jupyter
+   ```
+3.Open the Jupyter Notebook:
+   ```bash
+   jupyter notebook probability_simulations.ipynb
+   ```
+## Vizual Previews
+**1. Distribution of 10,000 Coin Flips**
+![Distribution Histogram](histogram.png)
+
+**2. Law of Large Numbers (Convergence)**
+![Convergence Graph](konvergencia.png)
+
